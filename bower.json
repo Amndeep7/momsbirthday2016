@@ -1,0 +1,21 @@
+{
+  "name": "momsbirthday2016",
+  "homepage": "https://github.com/Amndeep7/momsbirthday2016",
+  "authors": [
+    "Amndeep Singh Mann <amndeep.dev@gmail.com>"
+  ],
+  "description": "Mom's birthday present for 2016",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "babylonjs": "^2.4.1"
+  }
+}
